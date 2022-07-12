@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import MINUTES_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-week@deno/mod.js';
+import MINUTES_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-week@v0.0.8-deno/mod.js';
 ```
 
 #### MINUTES_IN_WEEK
@@ -66,7 +66,7 @@ var bool = ( MINUTES_IN_WEEK === 10080 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@deno/mod.js';
-import MINUTES_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-week@deno/mod.js';
+import MINUTES_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-week@v0.0.8-deno/mod.js';
 
 var w;
 var m;
